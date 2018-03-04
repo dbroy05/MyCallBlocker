@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCallBlocker</string>
+    <string name="dialog_block_message">Would you like to block the number: %1$s ?</string>
+    <string name="dialog_unblock_message">Would you like to unblock the number: %1$s ?</string>
+    <string name="dialog_title">Block Call</string>
+    <string name="dialog_unblocktitle">Unblock Call</string>
+    <string name="block_label">Block</string>
+    <string name="unblock_label">Unblock</string>
+    <string name="help">Help</string>
+    <string name="search">Search</string>
+</resources>
